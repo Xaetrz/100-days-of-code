@@ -20,3 +20,12 @@
 **Link(s) to work**
 1. Completed second course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 2. Solved and committed exercise 4 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 3: February 26, Monday
+
+**Today's Progress**: I've completed 3 Project Euler challenges.
+
+**Thoughts** I planned on completing another course from FreeCodeCamp tonight, but I shifted my sleep schedule back by ~8 hours for work/family reasons. I'm so drowsy that I don't think I'd retain much info which would defeat the point. I still completed the challenges since that's a matter of problem-solving rather than learning/memorization.
+
+**Link(s) to work**
+1. Solved and committed exercises 5-7 in Project Euler: https://github.com/Xaetrz/ProjectEuler
