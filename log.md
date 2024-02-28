@@ -23,9 +23,19 @@
 
 ### Day 3: February 26, Monday
 
-**Today's Progress**: I've completed 3 Project Euler challenges.
+**Today's Progress**: I've completed 4 Project Euler challenges.
 
 **Thoughts** I planned on completing another course from FreeCodeCamp tonight, but I shifted my sleep schedule back by ~8 hours for work/family reasons. I'm so drowsy that I don't think I'd retain much info which would defeat the point. I still completed the challenges since that's a matter of problem-solving rather than learning/memorization.
 
 **Link(s) to work**
-1. Solved and committed exercises 5-7 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+1. Solved and committed exercises 5-8 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 4: February 28, Wednesday
+
+**Today's Progress**: I've gone through many more exercises on FreeCodeCamp, including Project Euler.
+
+**Thoughts** I completed 2 courses today to make up for yesterday and completed a couple Euler exercises. For the courses, I have a certification project next so I will complete that instead of a normal course tomorrow. I'm still aiming for a minimum of 1 Euler exercise a day. (I work late nights and sleep in the afternoon. So depending on whether I complete exercices before or after work, there could be some weirdness on what day I completed something. For instance, I completed "yesterday's" exercises Monday night and today's exercises Wednesday morning, but that's effectively the next day for me at the moment.)
+
+**Link(s) to work**
+1. Completed third and fourth course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+2. Solved and committed exercises 9 and 10 in Project Euler: https://github.com/Xaetrz/ProjectEuler
