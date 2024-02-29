@@ -39,3 +39,13 @@
 **Link(s) to work**
 1. Completed third and fourth course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 2. Solved and committed exercises 9 and 10 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 5: February 29, Thursday
+
+**Today's Progress**: I've completed the first certification project for Responsive Web Design and completed a Project Euler exercise.
+
+**Thoughts** None.
+
+**Link(s) to work**
+1. Completed the first certification project in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+2. Solved and committed exercise 11 in Project Euler: https://github.com/Xaetrz/ProjectEuler
