@@ -49,3 +49,13 @@
 **Link(s) to work**
 1. Completed the first certification project in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 2. Solved and committed exercise 11 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 6: March 1, Friday
+
+**Today's Progress**: Completed a course. Worked on problem 12 of Project Euler, couldn't finish in time
+
+**Thoughts** I spent an embarassing amount of time trying to create a function that efficiently counts the number of divisors. The brute force method for the challenge was way too inefficient. I was mostly trying to work out the math involved in calculating this using prime factorization. My code seems correct but it doesn't work and I'm running on empty at the moment. I'll come back to it tomorrow, hopefully when I'm better rested.
+
+**Link(s) to work**
+1. Completed the fifth course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+2. Worked on exercise 12 in Project Euler: https://github.com/Xaetrz/ProjectEuler
