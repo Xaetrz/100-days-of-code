@@ -59,3 +59,13 @@
 **Link(s) to work**
 1. Completed the fifth course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 2. Worked on exercise 12 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 7: March 2, Saturday
+
+**Today's Progress**: Completed a course. Solved problems 12 and 13 of Project Euler
+
+**Thoughts** Finally solved problem 12. I greatly overcomplicated things with counting the number of divisors. Managed to work out how to do it with prime factorization, but it wasn't really necessary. Beyond that, I was still running into a baffling performance problem with the triangular number calculation. My solution performed poorly when I was incorrectly counting the sequence of triangle numbers (I accidentally started by adding 1 to 1 instead of 2). I never thought fixing that would cause it to perform much better, but it seems to be some kind of property of triangular numbers that finding the minimum triangular number with 500+ divisors is much faster than with my buggy calculation of the triangle numbers. That sent me on a wild goose chase to find a more efficient way of doing the problem instead of fixing the bug. Frustrating but yet another lesson to avoid optimization before solving the problem at hand.
+
+**Link(s) to work**
+1. Completed the sixth course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+2. Solved and committed exercises 12 and 13 in Project Euler: https://github.com/Xaetrz/ProjectEuler
