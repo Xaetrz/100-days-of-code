@@ -69,3 +69,13 @@
 **Link(s) to work**
 1. Completed the sixth course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 2. Solved and committed exercises 12 and 13 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 8: March 3, Sunday
+
+**Today's Progress**: Partially completed a course. Solved problems 14 and 15 of Project Euler
+
+**Thoughts** Problem 14 was very simple, but for problem 15, I decided to deep-dive into some quirks of javascript after running into a performance problem with my initial recursive solution. I realized pretty early that memoizing the arguments of my recursive function would speed it up (substantially, in fact). It took me awhile to figure out why my memoize function wrapper wasn't working but I worked it out (the fact that the wrapper was only called once should have been a major clue to figure out what was happening earlier). I looked up some alternative solutions after the fact, there was also a discrete math solution. I figured this was the case at the start, but discrete math is my rustiest subject and I intend to refresh myself on it as I go along.
+
+**Link(s) to work**
+1. Worked on the seventh course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+2. Solved and committed exercises 14 and 15 in Project Euler: https://github.com/Xaetrz/ProjectEuler
