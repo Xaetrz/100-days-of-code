@@ -89,3 +89,12 @@
 **Link(s) to work**
 1. Completed seventh course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 2. Solved and committed exercise 16 and started work on exercise 17 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 10: March 5, Tuesday
+
+**Today's Progress**: Solved problem 18 of Project Euler
+
+**Thoughts** None.
+
+**Link(s) to work**
+1. Solved and committed exercise 18 in Project Euler: https://github.com/Xaetrz/ProjectEuler
