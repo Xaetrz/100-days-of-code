@@ -98,3 +98,12 @@
 
 **Link(s) to work**
 1. Solved and committed exercise 18 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 11: March 6, Wednesday
+
+**Today's Progress**: Solved problem 19 of Project Euler
+
+**Thoughts** This exercise from Project Eulers seemed like a good interview question to solve. Took longer to solve than I would have liked, but it was also under less than ideal physical circumstances (had to wake up early, completed after tiring work day).
+
+**Link(s) to work**
+1. Solved and committed exercise 19 in Project Euler: https://github.com/Xaetrz/ProjectEuler
