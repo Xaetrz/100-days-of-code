@@ -103,7 +103,16 @@
 
 **Today's Progress**: Solved problem 19 of Project Euler
 
-**Thoughts** This exercise from Project Eulers seemed like a good interview question to solve. Took longer to solve than I would have liked, but it was also under less than ideal physical circumstances (had to wake up early, completed after tiring work day).
+**Thoughts** This exercise from Project Euler seemed like a good interview question to solve. Took longer to solve than I would have liked, but it was also under less than ideal physical circumstances (had to wake up early, completed after tiring work day).
 
 **Link(s) to work**
 1. Solved and committed exercise 19 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 11: March 7, Thursday
+
+**Today's Progress**: Solved problem 17 of Project Euler
+
+**Thoughts** This problem involved converting a number into its word form. I wanted to challenge myself with creating a function that did this without a bunch of hard-coded if-then branches (e.g. if between 1 and 10, else if between 11 and 20, etc.). And that's what I did, as silly as it was. This was also why I skipped this problem the last couple days, since I was way too tired to handle it.
+
+**Link(s) to work**
+1. Solved and committed exercise 17 in Project Euler: https://github.com/Xaetrz/ProjectEuler
