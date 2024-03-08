@@ -108,7 +108,7 @@
 **Link(s) to work**
 1. Solved and committed exercise 19 in Project Euler: https://github.com/Xaetrz/ProjectEuler
 
-### Day 11: March 7, Thursday
+### Day 12: March 7, Thursday
 
 **Today's Progress**: Solved problem 17 of Project Euler
 
@@ -116,3 +116,13 @@
 
 **Link(s) to work**
 1. Solved and committed exercise 17 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 13: March 8, Friday
+
+**Today's Progress**: Completed a course. Completed problem 20 and worked on part of problem 21 of Project Euler
+
+**Thoughts** No issues with problem 21 so far, just don't have enough time to finish it. The next section in the course is a project, so I will complete that and the rest of problem 21 tomorrow.
+
+**Link(s) to work**
+1. Completed eighth course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+2. Completed exercise 20 and started work on exercise 21 in Project Euler: https://github.com/Xaetrz/ProjectEuler
