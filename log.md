@@ -126,3 +126,12 @@
 **Link(s) to work**
 1. Completed eighth course in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
 2. Completed exercise 20 and started work on exercise 21 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 14: March 9, Saturday
+
+**Today's Progress**: Completed problem 21 of Project Euler
+
+**Thoughts** Having misunderstood what the problem was asking me to do, I spent a good amount of time solving the wrong thing. Thankfully, I figured it out soon after.
+
+**Link(s) to work**
+1. Completed exercise 21 in Project Euler: https://github.com/Xaetrz/ProjectEuler
