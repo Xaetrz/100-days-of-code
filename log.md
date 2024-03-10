@@ -135,3 +135,12 @@
 
 **Link(s) to work**
 1. Completed exercise 21 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 15: March 10, Sunday
+
+**Today's Progress**: Completed problem 22 of Project Euler
+
+**Thoughts** None
+
+**Link(s) to work**
+1. Completed exercise 22 in Project Euler: https://github.com/Xaetrz/ProjectEuler
