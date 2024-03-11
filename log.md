@@ -144,3 +144,12 @@
 
 **Link(s) to work**
 1. Completed exercise 22 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 16: March 11, Monday
+
+**Today's Progress**: Completed problem 24 of Project Euler, both brute force and efficient algorithms
+
+**Thoughts** None
+
+**Link(s) to work**
+1. Completed exercise 24 in Project Euler: https://github.com/Xaetrz/ProjectEuler
