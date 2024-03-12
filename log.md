@@ -153,3 +153,12 @@
 
 **Link(s) to work**
 1. Completed exercise 24 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 17: March 12, Tuesday
+
+**Today's Progress**: Completed a certification project.
+
+**Thoughts** The last certification project involves creating my own personal portfolio webpage. As an extention of that, my new plan is to incorporate all of my Euler Project solutions into it as well as any other web/javascript projects I do. 
+
+**Link(s) to work**
+1. Completed the second certification project in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
