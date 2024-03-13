@@ -162,3 +162,12 @@
 
 **Link(s) to work**
 1. Completed the second certification project in Responsive Web Design in FreeCodeCamp: https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+### Day 18: March 13, Wednesday
+
+**Today's Progress**: Completed problem 23 of Project Euler
+
+**Thoughts** None
+
+**Link(s) to work**
+1. Completed exercise 23 in Project Euler: https://github.com/Xaetrz/ProjectEuler
