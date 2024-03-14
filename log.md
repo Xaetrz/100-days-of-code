@@ -171,3 +171,12 @@
 
 **Link(s) to work**
 1. Completed exercise 23 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 19: March 14, Thursday
+
+**Today's Progress**: Completed problems 25 and 26 of Project Euler
+
+**Thoughts** None
+
+**Link(s) to work**
+1. Completed exercises 25 and 26 in Project Euler: https://github.com/Xaetrz/ProjectEuler
