@@ -180,3 +180,12 @@
 
 **Link(s) to work**
 1. Completed exercises 25 and 26 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 20: March 15, Friday
+
+**Today's Progress**: Completed problems 27, 28, and 29 Project Euler
+
+**Thoughts** Problem 27 was somewhat involved code-wise, 28 was a brain teaser with a simple solution (good interview question), and 29 was shockingly easy. The complexity/difficulty of these problems are definitely all over the place.
+
+**Link(s) to work**
+1. Completed exercises 27, 28, and 29 in Project Euler: https://github.com/Xaetrz/ProjectEuler
