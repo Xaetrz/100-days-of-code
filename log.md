@@ -183,9 +183,27 @@
 
 ### Day 20: March 15, Friday
 
-**Today's Progress**: Completed problems 27, 28, and 29 Project Euler
+**Today's Progress**: Completed problems 27, 28, and 29 of Project Euler
 
-**Thoughts** Problem 27 was somewhat involved code-wise, 28 was a brain teaser with a simple solution (good interview question), and 29 was shockingly easy. The complexity/difficulty of these problems are definitely all over the place.
+**Thoughts** Problem 27 was somewhat involved code-wise (if avoiding a total brute force algorithm), 28 was a brain teaser with a simple solution (good interview question), and 29 was shockingly easy. The complexity/difficulty of these problems are definitely all over the place.
 
 **Link(s) to work**
 1. Completed exercises 27, 28, and 29 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 21: March 16, Saturday
+
+**Today's Progress**: Completed problem 30 of Project Euler. Began new project.
+
+**Thoughts** I finally decided on a project to work on: creating a mobile app. I had an interesting idea for an app last night. Whether it has a chance of being a successful app or not, it would still be an excellent project to put on my resume/portfolio, so it's win-win. I spent some time today working out which platforms to use: React Native using Typescript and Gluestack UI. I have a little bit of experience learning React for web dev and wanted to expand on that. I also wanted to get experience with Typescript as it's becoming more popular and I'm getting tired of duck typing.
+
+**Link(s) to work**
+1. Completed exercises 30 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 22: March 17, Sunday
+
+**Today's Progress**: Completed problem 31 of Project Euler.
+
+**Thoughts** I really struggled with this one when coming up with a *good* solution. A janky brute-force algorithm would be possible, but I tried wracking my brain to come up with something better but ultimately couldn't do it without some hints online. I put together the recursive solution, but then found an even better dynamic programming solution online that I recreated in JS. The code is short and easy to read, but it's very difficult to understand why it manages to work. As it currently stands, I wouldn't have been able to come up with that solution. I definitely need more experience with complex dynamic programming problems. I have the next couple days off, so my plan tomorrow is to deep-dive into writing mobile apps. First step: get environment set up and a Hello World running.
+
+**Link(s) to work**
+1. Completed exercises 31 in Project Euler: https://github.com/Xaetrz/ProjectEuler
