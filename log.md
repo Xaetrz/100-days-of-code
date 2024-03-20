@@ -208,8 +208,17 @@
 **Link(s) to work**
 1. Completed exercises 31 in Project Euler: https://github.com/Xaetrz/ProjectEuler
 
-### Day 22: March 18, Monday
+### Day 23: March 18, Monday
 
 **Today's Progress**: Got an app development server running with Expo and a program running directly on my iOS device
 
 **Thoughts** I was sick today and had nasty brain fog, so I wasn't able to do much any hard thinking today. That said, I was able to finish the first step on creating an app. I want to avoid getting too wrapped up in the weeds and getting paralyzed by all the things I need to do/learn to create a good app. As such, I'm going to focus first tomorrow on creating a very rough prototype of my app with no regard for good app/UI design. I need to learn by *doing* first and figuring out the proper way as I go.
+
+### Day 24: March 19, Tuesday
+
+**Today's Progress**: Completed problem 32 of Project Euler.
+
+**Thoughts** None
+
+**Link(s) to work**
+1. Completed exercise 32 in Project Euler: https://github.com/Xaetrz/ProjectEuler
