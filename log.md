@@ -222,3 +222,12 @@
 
 **Link(s) to work**
 1. Completed exercise 32 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 25: March 21, Thursday
+
+**Today's Progress**: Started prototype of WOTS.
+
+**Thoughts** None
+
+**Link(s) to work**
+1. Initial commit of WOTS: https://github.com/Xaetrz/wots
