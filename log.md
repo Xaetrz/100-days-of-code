@@ -227,7 +227,13 @@
 
 **Today's Progress**: Started prototype of WOTS.
 
-**Thoughts** None
+**Thoughts** Decided to move away from gluestack-ui and stick with base react native components, at least at first. I found that the documentation was very lacking and the performance appears to be relatively poor.
 
 **Link(s) to work**
 1. Initial commit of WOTS: https://github.com/Xaetrz/wots
+
+### Day 26: March 22, Friday
+
+**Today's Progress**: Learned how to compile a TS file in VS code.
+
+**Thoughts** That sounds like a joke, but it's kinda crazy how many hoops I had to jump through to properly set up TS->JS compilation in VS code. Most of the weirdness was on the VS Code end: learning how launch.json and tasks.json work, debugging unexpected error messages, and setting up config so that testing TS code doesn't end up being obnoxious. This ate up all the time I had this morning for coding, but it was important I figured this stuff out now. I want to do all my Project Euler exercises in Typescript from now on to get familiar with it, and to make it easier to work on my WOTS project. That way, instead of n things to learn, I'm only having to learn n-1 things.
