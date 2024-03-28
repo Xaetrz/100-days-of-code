@@ -237,3 +237,9 @@
 **Today's Progress**: Learned how to compile a TS file in VS code.
 
 **Thoughts** That sounds like a joke, but it's kinda crazy how many hoops I had to jump through to properly set up TS->JS compilation in VS code. Most of the weirdness was on the VS Code end: learning how launch.json and tasks.json work, debugging unexpected error messages, and setting up config so that testing TS code doesn't end up being obnoxious. This ate up all the time I had this morning for coding, but it was important I figured this stuff out now. I want to do all my Project Euler exercises in Typescript from now on to get familiar with it, and to make it easier to work on my WOTS project. That way, instead of n things to learn, I'm only having to learn n-1 things.
+
+### Day 27: March 28, Thursday
+
+**Today's Progress**: Completed problem 33 of Project Euler.
+
+**Thoughts** Back to the grindstone after being sick all week. Still foggy headed so took longer to finish problem 33 than I would have liked. This is the first problem I've done using Typescript, and it was very handy for catching stuff early. Probably the biggest annoyance is needing to jump to the js file to run it. Not just annoying, but I can accidentally end up making edits to the js file before I realize it, so it also wastes some time. As such, I'll need to come up with some sort of debug macro to run the corresponding js file from the ts file.
