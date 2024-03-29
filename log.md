@@ -243,3 +243,15 @@
 **Today's Progress**: Completed problem 33 of Project Euler.
 
 **Thoughts** Back to the grindstone after being sick all week. Still foggy headed so took longer to finish problem 33 than I would have liked. This is the first problem I've done using Typescript, and it was very handy for catching stuff early. Probably the biggest annoyance is needing to jump to the js file to run it. Not just annoying, but I can accidentally end up making edits to the js file before I realize it, so it also wastes some time. As such, I'll need to come up with some sort of debug macro to run the corresponding js file from the ts file.
+
+**Link(s) to work**
+1. Completed exercise 33 in Project Euler: https://github.com/Xaetrz/ProjectEuler
+
+### Day 28: March 29, Friday
+
+**Today's Progress**: Completed problem 34 of Project Euler.
+
+**Thoughts** None
+
+**Link(s) to work**
+1. Completed exercise 34 in Project Euler: https://github.com/Xaetrz/ProjectEuler
